@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumanAndOtherClasses/Human.cs">
+    <Files>
+      <File FileName="HumanAndOtherClasses/Human.cs" Line="97" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>webdriverPluralSight/webdriverPluralSight.csproj</String>
+    <String>WebDriverDemo/WebDriverDemo.csproj</String>
+  </DisabledProjects>
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B19C93CC-4A9B-4462-A54C-47EEA06F08FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animal.cs">
+    <Files>
+      <File FileName="Human.cs" Line="97" Column="10" />
+      <File FileName="Animal.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/Sonal/projects/WebDriverDemo/loops/bin/Debug/loops.exe
+/Users/Sonal/projects/WebDriverDemo/loops/bin/Debug/loops.pdb
+/Users/Sonal/projects/WebDriverDemo/loops/obj/x86/Debug/loops.csproj.CoreCompileInputs.cache
+/Users/Sonal/projects/WebDriverDemo/loops/obj/x86/Debug/loops.exe
+/Users/Sonal/projects/WebDriverDemo/loops/obj/x86/Debug/loops.pdb
+/Users/Sonal/projects/WebDriverDemo/loops/obj/x86/Debug/loops.csprojResolveAssemblyReference.cache
